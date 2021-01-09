@@ -4,4 +4,3 @@ It's not perfect, yet. But we'll try our best to learn more and gradually upgrad
  
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Floating-Circle)](https://github.com/TheCodingRocket/Floating-Circle)
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
