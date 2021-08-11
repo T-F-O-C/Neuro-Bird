@@ -4,7 +4,7 @@
 
 <h3 align="center">
  Neuroevolution, or neuro-evolution, is a form of artificial intelligence that uses evolutionary algorithms to generate artificial neural networks (ANN), parameters, topology and rules. In contrast, neuroevolution requires only a measure of a network's performance at a task. This time, I implemented Neuroevolution on our version of Flappy Bird.
-It's not perfect, yet. But we'll try our best to learn more and gradually upgrading our program.
+It's not perfect, yet. But we'll try our best to develop this program.
  </h3>
  
  
