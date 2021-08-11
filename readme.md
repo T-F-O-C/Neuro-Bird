@@ -7,6 +7,6 @@
 It's not perfect, yet. But we'll try our best to learn more and gradually upgrading our program.
  </h3>
  
- <h3 align="center">
+ 
  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=TheCodingRocket&repo=Floating-Circle)](https://github.com/TheCodingRocket/Floating-Circle)
- </h3>
+ 
