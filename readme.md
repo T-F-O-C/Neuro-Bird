@@ -7,5 +7,7 @@
 It's not perfect, yet. But we'll try our best to develop this program to maximize its potential.
  </h3>
  
+ <h3 align="center">
+  To explain it simply, have you ever feel that Flappy Bird is impossible to beat? Dying over and over when playing it? Well, this is the solution. YOU don't need to do anything. Just watch, and let the algorithm do all the work for you.
  
 
